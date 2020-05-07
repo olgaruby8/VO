@@ -1,0 +1,297 @@
+<?xml version="1.0"?>
+<vieworder id="ClassSystem">
+	<item id="0" name="Bauteil">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0" />
+			<property id="name" name="Bezeichnung" val="Bauteil" />
+		</properties>
+	</item>
+	<item id="0.5" name="Elektro">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5" />
+			<property id="name" name="Bezeichnung" val="Elektro" />
+		</properties>
+	</item>
+	<item id="0.5.0" name="Installationstechnik">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.0" />
+			<property id="name" name="Bezeichnung" val="Installationstechnik" />
+		</properties>
+	</item>
+	<item id="0.5.0.0" name="Installationsgerät">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.0.0" />
+			<property id="name" name="Bezeichnung" val="Installationsgerät" />
+		</properties>
+	</item>
+	<item id="0.5.0.0.0" name="Schaltgerät">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.0.0.0" />
+			<property id="name" name="Bezeichnung" val="Schaltgerät" />
+		</properties>
+	</item>
+	<item id="0.5.0.0.1" name="Steckgerät">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.0.0.1" />
+			<property id="name" name="Bezeichnung" val="Steckgerät" />
+		</properties>
+	</item>
+	<item id="0.5.0.1" name="Verbraucher">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.0.1" />
+			<property id="name" name="Bezeichnung" val="Verbraucher" />
+		</properties>
+	</item>
+	<item id="0.5.0.1.0" name="Motoren">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.0.1.0" />
+			<property id="name" name="Bezeichnung" val="Motoren" />
+		</properties>
+	</item>
+	<item id="0.5.0.2" name="Installationsbustechnik">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.0.2" />
+			<property id="name" name="Bezeichnung" val="Installationsbustechnik" />
+		</properties>
+	</item>
+	<item id="0.5.0.2.0" name="Sensoren">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.0.2.0" />
+			<property id="name" name="Bezeichnung" val="Sensoren" />
+		</properties>
+	</item>
+	<item id="0.5.0.2.1" name="Aktoren">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.0.2.1" />
+			<property id="name" name="Bezeichnung" val="Aktoren" />
+		</properties>
+	</item>
+	<item id="0.5.0.3" name="Beleuchtung">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.0.3" />
+			<property id="name" name="Bezeichnung" val="Beleuchtung" />
+		</properties>
+	</item>
+	<item id="0.5.0.3.0" name="Innenbeleuchtung">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.0.3.0" />
+			<property id="name" name="Bezeichnung" val="Innenbeleuchtung" />
+		</properties>
+	</item>
+	<item id="0.5.0.3.1" name="Außenbeleuchtung">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.0.3.1" />
+			<property id="name" name="Bezeichnung" val="Außenbeleuchtung" />
+		</properties>
+	</item>
+	<item id="0.5.0.3.2" name="Sicherheitsbeleuchtung">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.0.3.2" />
+			<property id="name" name="Bezeichnung" val="Sicherheitsbeleuchtung" />
+		</properties>
+	</item>
+	<item id="0.5.0.3.3" name="Lichtsignalanlagen">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.0.3.3" />
+			<property id="name" name="Bezeichnung" val="Lichtsignalanlagen" />
+		</properties>
+	</item>
+	<item id="0.5.0.4" name="Photovoltaik">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.0.4" />
+			<property id="name" name="Bezeichnung" val="Photovoltaik" />
+		</properties>
+	</item>
+	<item id="0.5.0.5" name="Blitzschutz">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.0.5" />
+			<property id="name" name="Bezeichnung" val="Blitzschutz" />
+		</properties>
+	</item>
+	<item id="0.5.0.5.0" name="?conductors">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.0.5.0" />
+			<property id="name" name="Bezeichnung" val="?conductors" />
+		</properties>
+	</item>
+	<item id="0.5.0.6" name="Potentialausgleich">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.0.6" />
+			<property id="name" name="Bezeichnung" val="Potentialausgleich" />
+		</properties>
+	</item>
+	<item id="0.5.0.6.0" name="?conductors">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.0.6.0" />
+			<property id="name" name="Bezeichnung" val="?conductors" />
+		</properties>
+	</item>
+	<item id="0.5.0.9" name="Sonstiges">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.0.9" />
+			<property id="name" name="Bezeichnung" val="Sonstiges" />
+		</properties>
+	</item>
+	<item id="0.5.1" name="Kommunikationstechnik">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.1" />
+			<property id="name" name="Bezeichnung" val="Kommunikationstechnik" />
+		</properties>
+	</item>
+	<item id="0.5.1.0" name="Informationstechnik">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.1.0" />
+			<property id="name" name="Bezeichnung" val="Informationstechnik" />
+		</properties>
+	</item>
+	<item id="0.5.1.1" name="Telekomunikation">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.1.1" />
+			<property id="name" name="Bezeichnung" val="Telekomunikation" />
+		</properties>
+	</item>
+	<item id="0.5.1.2" name="Antennentechnik">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.1.2" />
+			<property id="name" name="Bezeichnung" val="Antennentechnik" />
+		</properties>
+	</item>
+	<item id="0.5.1.3" name="Zutrittskontrolle">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.1.3" />
+			<property id="name" name="Bezeichnung" val="Zutrittskontrolle" />
+		</properties>
+	</item>
+	<item id="0.5.1.4" name="ELA-Technik">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.1.4" />
+			<property id="name" name="Bezeichnung" val="ELA-Technik" />
+		</properties>
+	</item>
+	<item id="0.5.1.5" name="Rufanlagen">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.1.5" />
+			<property id="name" name="Bezeichnung" val="Rufanlagen" />
+		</properties>
+	</item>
+	<item id="0.5.10" name="Kabeltragsystem">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.10" />
+			<property id="name" name="Bezeichnung" val="Kabeltragsystem" />
+		</properties>
+	</item>
+	<item id="0.5.11" name="?cable">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.11" />
+			<property id="name" name="Bezeichnung" val="?cable" />
+		</properties>
+	</item>
+	<item id="0.5.2" name="Sicherheitstechnik">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.2" />
+			<property id="name" name="Bezeichnung" val="Sicherheitstechnik" />
+		</properties>
+	</item>
+	<item id="0.5.2.0" name="Brandmeldetechnik">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.2.0" />
+			<property id="name" name="Bezeichnung" val="Brandmeldetechnik" />
+		</properties>
+	</item>
+	<item id="0.5.2.0.0" name="automatische Melder">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.2.0.0" />
+			<property id="name" name="Bezeichnung" val="automatische Melder" />
+		</properties>
+	</item>
+	<item id="0.5.2.1" name="Einburchmeldetechnik">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.2.1" />
+			<property id="name" name="Bezeichnung" val="Einburchmeldetechnik" />
+		</properties>
+	</item>
+	<item id="0.5.2.2" name="?smoke_and_heat_extraction">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.2.2" />
+			<property id="name" name="Bezeichnung" val="?smoke_and_heat_extraction" />
+		</properties>
+	</item>
+	<item id="0.5.2.2.0" name="automatische Melder">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.2.2.0" />
+			<property id="name" name="Bezeichnung" val="automatische Melder" />
+		</properties>
+	</item>
+	<item id="0.5.3" name="Schwachstromtechnik">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.3" />
+			<property id="name" name="Bezeichnung" val="Schwachstromtechnik" />
+		</properties>
+	</item>
+	<item id="0.5.9" name="?switchgear and feeding">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.9" />
+			<property id="name" name="Bezeichnung" val="?switchgear and feeding" />
+		</properties>
+	</item>
+	<item id="0.5.9.0" name="Verteiler">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.9.0" />
+			<property id="name" name="Bezeichnung" val="Verteiler" />
+		</properties>
+	</item>
+	<item id="0.5.9.1" name="?switchgear">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.9.1" />
+			<property id="name" name="Bezeichnung" val="?switchgear" />
+		</properties>
+	</item>
+	<item id="0.5.9.2" name="?transformer">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.9.2" />
+			<property id="name" name="Bezeichnung" val="?transformer" />
+		</properties>
+	</item>
+	<item id="0.5.9.3" name="?generators">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.9.3" />
+			<property id="name" name="Bezeichnung" val="?generators" />
+		</properties>
+	</item>
+	<item id="0.5.9.4" name="?batteries">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="0.5.9.4" />
+			<property id="name" name="Bezeichnung" val="?batteries" />
+		</properties>
+	</item>
+	<item id="1" name="?building model">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="1" />
+			<property id="name" name="Bezeichnung" val="?building model" />
+		</properties>
+	</item>
+	<item id="9" name="LabClass">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="9" />
+			<property id="name" name="Bezeichnung" val="LabClass" />
+		</properties>
+	</item>
+	<item id="9.0" name="LabSubClass 0">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="9.0" />
+			<property id="name" name="Bezeichnung" val="LabSubClass 0" />
+		</properties>
+	</item>
+	<item id="9.0.0" name="LabSubClass 0.0">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="9.0.0" />
+			<property id="name" name="Bezeichnung" val="LabSubClass 0.0" />
+		</properties>
+	</item>
+	<item id="9.1" name="LabSubClass 1">
+		<properties>
+			<property id="id" name="Ordnungszahl" val="9.1" />
+			<property id="name" name="Bezeichnung" val="LabSubClass 1" />
+		</properties>
+	</item>
+</vieworder>

@@ -1,0 +1,14 @@
+D:\Temp\ViewOrders\ViewOrders\obj\Debug\ViewOrders.csprojAssemblyReference.cache
+D:\Temp\ViewOrders\ViewOrders\obj\Debug\ViewOrders.csproj.CoreCompileInputs.cache
+D:\Temp\ViewOrders\ViewOrders\bin\Debug\ViewOrders.exe.config
+D:\Temp\ViewOrders\ViewOrders\bin\Debug\ViewOrders.exe
+D:\Temp\ViewOrders\ViewOrders\bin\Debug\ViewOrders.pdb
+D:\Temp\ViewOrders\ViewOrders\obj\Debug\ViewOrders.exe
+D:\Temp\ViewOrders\ViewOrders\obj\Debug\ViewOrders.pdb
+D:\Temp\ViewOrders1\ViewOrders\bin\Debug\ViewOrders.exe.config
+D:\Temp\ViewOrders1\ViewOrders\bin\Debug\ViewOrders.exe
+D:\Temp\ViewOrders1\ViewOrders\bin\Debug\ViewOrders.pdb
+D:\Temp\ViewOrders1\ViewOrders\obj\Debug\ViewOrders.csprojAssemblyReference.cache
+D:\Temp\ViewOrders1\ViewOrders\obj\Debug\ViewOrders.csproj.CoreCompileInputs.cache
+D:\Temp\ViewOrders1\ViewOrders\obj\Debug\ViewOrders.exe
+D:\Temp\ViewOrders1\ViewOrders\obj\Debug\ViewOrders.pdb
